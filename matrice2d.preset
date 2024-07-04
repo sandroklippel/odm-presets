@@ -1,0 +1,7 @@
+{
+    "auto-boundary": true,
+    "optimize-disk-space": true,
+    "fast-orthophoto": true,
+    "orthophoto-png": true,
+    "max-concurrency": 16
+}
