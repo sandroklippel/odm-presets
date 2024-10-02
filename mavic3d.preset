@@ -8,5 +8,6 @@
     "use-3dmesh": true,
     "rolling-shutter": true,
     "rolling-shutter-readout": 31,
-    "max-concurrency": 16
+    "max-concurrency": 16,
+    "orthophoto-resolution": 10.0
 }

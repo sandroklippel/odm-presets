@@ -6,5 +6,6 @@
     "dtm": true,
     "pc-quality": "high",
     "use-3dmesh": true,
-    "max-concurrency": 16
+    "max-concurrency": 16,
+    "orthophoto-resolution": 10.0
 }

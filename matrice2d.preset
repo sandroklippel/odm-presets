@@ -3,5 +3,6 @@
     "optimize-disk-space": true,
     "fast-orthophoto": true,
     "orthophoto-png": true,
-    "max-concurrency": 16
+    "max-concurrency": 16,
+    "orthophoto-resolution": 2.0
 }
