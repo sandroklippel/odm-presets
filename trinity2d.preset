@@ -3,7 +3,7 @@
     "optimize-disk-space": true,
     "fast-orthophoto": true,
     "orthophoto-png": true,
-    "orthophoto-kmz", true,
+    "orthophoto-kmz": true,
     "max-concurrency": 16,
     "gps-accuracy": 0.02,
     "orthophoto-resolution": 2.0
