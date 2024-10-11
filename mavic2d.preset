@@ -3,6 +3,7 @@
     "optimize-disk-space": true,
     "fast-orthophoto": true,
     "orthophoto-png": true,
+    "orthophoto-kmz": true,
     "rolling-shutter": true,
     "rolling-shutter-readout": 31,
     "max-concurrency": 16,

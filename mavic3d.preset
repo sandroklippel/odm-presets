@@ -2,6 +2,7 @@
     "auto-boundary": true,
     "optimize-disk-space": true,
     "orthophoto-png": true,
+    "orthophoto-kmz": true,
     "dsm": true,
     "dtm": true,
     "pc-quality": "high",
