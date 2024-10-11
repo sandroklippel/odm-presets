@@ -1,0 +1,13 @@
+{
+    "auto-boundary": true,
+    "optimize-disk-space": true,
+    "orthophoto-png": true,
+    "orthophoto-kmz", true,
+    "dsm": true,
+    "dtm": true,
+    "pc-quality": "high",
+    "use-3dmesh": true,
+    "max-concurrency": 16,
+    "gps-accuracy": 0.02,
+    "orthophoto-resolution": 10.0
+}
